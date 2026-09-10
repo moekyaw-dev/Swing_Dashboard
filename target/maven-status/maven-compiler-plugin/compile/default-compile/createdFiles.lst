@@ -1,5 +1,8 @@
 com\dashboard\main\Main$1.class
+com\dashboard\panel\MenuItem.class
+com\dashboard\model\Menu_Model$MenuType.class
 com\dashboard\main\Main.class
 com\dashboard\component\sideBar.class
 com\dashboard\panel\panelBorder.class
 com\dashboard\main\Main$2.class
+com\dashboard\model\Menu_Model.class
